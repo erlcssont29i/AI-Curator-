@@ -1,0 +1,5 @@
+{
+  "name": "Auto-Curator AI",
+  "description": "An automated content curation system that scrapes, filters using Gemini AI, and generates Markdown reports for publishing.",
+  "requestFramePermissions": []
+}
